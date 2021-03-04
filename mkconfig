@@ -1,0 +1,6 @@
+<$MKINCDIR/config
+PROGNAME = 9freq
+DEFS = -D_DEFAULT_SOURCE
+INCS = $INC9
+CFILES = main.c
+AFILES = $OBJ9
